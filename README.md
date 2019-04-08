@@ -51,6 +51,11 @@ sudo pip install tensorflow==1.7.0
 sudo pip install keras-2.1.3
 ```
 
+4. Opencv installation in Ubuntu
+```
+sudo pip install opencv-python
+```
+
 
 
 
