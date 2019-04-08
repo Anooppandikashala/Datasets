@@ -1,4 +1,3 @@
-# TransferLearning (Bottle type Recognition)
 
 ## Install wifi driver
 ```
