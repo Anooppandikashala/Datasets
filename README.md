@@ -1,3 +1,19 @@
+## Pycharm Installation
+
+1. Goto Pycharm [Download](https://www.jetbrains.com/pycharm/download/#section=linux) Section 
+2. Accept the terms and conditions and Download the file.
+3. Goto Download folder 
+4. Extract the tar.gz file by (right click the file and Extract here)
+5. Then open the extracted folder and go to ``` bin ``` folder
+6. Inside the folder open the terminal (right click and open terminal)
+7. To install the pycharm ide type
+```
+ ./pycharm.sh
+```
+8. It will open the installation window And go through the instructions.
+
+
+
 
 ## Install wifi driver
 ```
