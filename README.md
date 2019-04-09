@@ -48,7 +48,7 @@ sudo apt-get install python-qt4 qt4-designer
 ```
 sudo pip install tensorflow==1.7.0
 
-sudo pip install keras-2.1.3
+sudo pip install keras==2.1.3
 ```
 
 4. Opencv installation in Ubuntu
