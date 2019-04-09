@@ -1,6 +1,6 @@
 ## Pycharm Installation
 
-1. Goto Pycharm [Download](https://www.jetbrains.com/pycharm/download/#section=linux) Section 
+1. Goto Pycharm [Download Community Version](https://www.jetbrains.com/pycharm/download/#section=linux) Section 
 2. Accept the terms and conditions and Download the file.
 3. Goto Download folder 
 4. Extract the tar.gz file by (right click the file and Extract here)
